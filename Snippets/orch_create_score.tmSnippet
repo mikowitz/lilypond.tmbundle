@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\createScore #"${1:Piece}" #'("${2:ScoreType}")
+$0</string>
+	<key>name</key>
+	<string>OrchestralLily: \createScore</string>
+	<key>scope</key>
+	<string>source.lilypond</string>
+	<key>tabTrigger</key>
+	<string>create</string>
+	<key>uuid</key>
+	<string>D9107650-E615-11DE-8A39-0800200C9A66</string>
+</dict>
+</plist>
