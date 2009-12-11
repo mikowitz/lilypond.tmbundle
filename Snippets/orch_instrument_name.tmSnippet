@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:Part}InstrumentName = "${2:Value}"</string>
+	<key>name</key>
+	<string>OrchestralLily: Instrument Name</string>
+	<key>scope</key>
+	<string>source.lilypond</string>
+	<key>tabTrigger</key>
+	<string>inst</string>
+	<key>uuid</key>
+	<string>0BAFBA10-E60E-11DE-8A39-0800200C9A66</string>
+</dict>
+</plist>

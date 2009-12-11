@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:Piece}PieceNameTacet = "${2:Name}"</string>
+	<key>name</key>
+	<string>OrchestralLily: Piece Name Tacet</string>
+	<key>scope</key>
+	<string>source.lilypond</string>
+	<key>tabTrigger</key>
+	<string>piecet</string>
+	<key>uuid</key>
+	<string>260C6CE0-E60F-11DE-8A39-0800200C9A66</string>
+</dict>
+</plist>
